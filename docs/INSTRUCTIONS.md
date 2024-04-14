@@ -23,7 +23,7 @@ Je leert zelfstandig de fundamentals van Javascript om te gebruiken in de leerta
 
 ## Werkwijze
 
-Volg wekelijks verschillende lessen ven https://learnjavascript.online . (De eerste 77 lessen zijn gratis, er is studentenkorting voor als je meer lessen wil volgen)
+Volg wekelijks verschillende lessen ven [learnjavascript.online](https://learnjavascript.online). (De eerste 77 lessen zijn gratis, er is studentenkorting voor als je meer lessen wil volgen)
 
 Hou in een leerlog bij wat je zoal leert. Dit kun je ook gebruiken om iets terug te lezen en anderen uit te leggen hoe Javascript werkt. Je kan het bijhouden in de wiki van deze deeltaak, maar ook in je we-love-web repo met blog.
 
@@ -32,7 +32,10 @@ Probeer wat je hebt leert toe passen in de leertaak. Zodra we in het programma m
 
 
 ### Learn Javascript 
-https://learnjavascript.online is een makkelijke manier om te leren en oefenen met javascript. Je kan op verschillende niveaus oefeningen doen. Je krijgt oefeningen, flashcards en korte quizjes over bepaalde onderdelen. Je blijft de vragen terugkrijgen als je ze niet goed hebt en krijgt ook uitgelegd waarom iets wel goed of niet goed is. 
+[learnjavascript.online](https://learnjavascript.online) is een makkelijke manier om te leren en oefenen met javascript. Je kan op verschillende niveaus oefeningen doen. Je krijgt oefeningen, flashcards en korte quizjes over bepaalde onderdelen. Je blijft de vragen terugkrijgen als je ze niet goed hebt en krijgt ook uitgelegd waarom iets wel goed of niet goed is. 
+
+### Learn Programming 
+[learnprogramming.online](https://learnprogramming.online) is een online cursus over web coderen dat Javascript gebruikt om progremeer concepten uit te leggen. Het is iets meer high level en daarom geschikt om te doen als je al meer over programmeren weet en als je learnjavascript.online hebt gedaan.
 
 
 
