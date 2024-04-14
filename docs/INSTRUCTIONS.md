@@ -29,12 +29,10 @@ Hou in een leerlog bij wat je zoal leert. Dit kun je ook gebruiken om iets terug
 
 Probeer wat je hebt leert toe passen in de leertaak. Zodra we in het programma met client-side Javascript gaan werken om interfaces te verrijken volgens het principes van Progressive Enhancment kun je toe passen wat je hebt geleerd. Noteer dan in de leertaak wat je hebt toegepast en verwijs naar je leerlog. 
 
-
-
-### Learn Javascript 
+#### Learn Javascript 
 [learnjavascript.online](https://learnjavascript.online) is een makkelijke manier om te leren en oefenen met javascript. Je kan op verschillende niveaus oefeningen doen. Je krijgt oefeningen, flashcards en korte quizjes over bepaalde onderdelen. Je blijft de vragen terugkrijgen als je ze niet goed hebt en krijgt ook uitgelegd waarom iets wel goed of niet goed is. 
 
-### Learn Programming 
+#### Learn Programming 
 [learnprogramming.online](https://learnprogramming.online) is een online cursus over web coderen dat Javascript gebruikt om progremeer concepten uit te leggen. Het is iets meer high level en daarom geschikt om te doen als je al meer over programmeren weet en als je learnjavascript.online hebt gedaan.
 
 
