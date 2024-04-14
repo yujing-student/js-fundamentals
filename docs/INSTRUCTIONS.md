@@ -23,16 +23,16 @@ Je leert zelfstandig de fundamentals van Javascript om te gebruiken voor de leer
 
 ## Werkwijze
 
+Volg wekelijks verschillende lessen ven https://learnjavascript.online . (De eerste 77 lessen zijn gratis, er is studentenkorting voor als je meer lessen wil volgen)
+
+Hou in een leerlog bij wat je zoal leert. Dit kun je ook gebruiken om iets terug te lezen en anderen uit te leggen hoe Javascript werkt. Je kan het bijhouden in de wiki van deze deeltaak, maar ook in je we-love-web repo met blog.
+
+Probeer wat je hebt leert toe passen in de leertaak. Noteer dan in de leertaak wat je hebt toegepast en verwijs naar je leerlog. 
 
 
-Kunnen we ze niet allemaal https://learnjavascript.online laten doen? De eerste 77 lessen zijn gratis, er is studentenkorting, er zijn ook opleidingen waar je boeken moet kopen, en in juni komt de maker ervan een we love web praatje houden (heb hem gevraagd of we een dealtje kunnen maken voor onze studenten, dus kunnen evt een combifactuur krijgen). Voortgang bijhouden in je wiki.
 
-
-Interactief, eigen tempo, Charley Muhren is er enthousiast over, checkpoints doen ze zelf door de vragen in de cursus te beantwoorden
-
-
-https://learnprogramming.online kan ook, iets meer high level over programmeer concepten. Misschien meer iets voor 2e jaar, zodat ze nu meer van syntax zelf weten. (Weet niet wat een goede volgorde zou zijn..)
-
+### Learn Javascript 
+https://learnjavascript.online is een makkelijke manier om te leren en oefenen met javascript. Je kan op verschillende niveaus oefeningen doen. Je krijgt oefeningen, flashcards en korte quizjes over bepaalde onderdelen. Je blijft de vragen terugkrijgen als je ze niet goed hebt en krijgt ook uitgelegd waarom iets wel goed of niet goed is. 
 
 
 
@@ -42,7 +42,6 @@ https://learnprogramming.online kan ook, iets meer high level over programmeer c
 
 Deze opdracht is done als:
 
-- [ ] ...
-- [ ] ...
-- [ ] Probeer dat wat je geleerd hebt toe te passen in een leertaak?
+- [ ] Je hebt verschillende Javascript lessen gevolgd en gedocumenteerd wat je hebt geleerd
+- [ ] Je hebt verschillende technieken toegepast in een in een leertaak
 
