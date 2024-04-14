@@ -44,5 +44,5 @@ Probeer wat je hebt geleerd toe passen in de leertaak. Noteer dan in de leertaak
 Deze opdracht is done als:
 
 - [ ] Je hebt verschillende Javascript lessen gevolgd en gedocumenteerd wat je hebt geleerd
-- [ ] Je hebt verschillende technieken toegepast in een in een leertaak
+- [ ] Je hebt verschillende technieken toegepast in een leertaak
 
