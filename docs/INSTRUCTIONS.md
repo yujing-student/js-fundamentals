@@ -18,7 +18,7 @@ Deze deeltaak hoort bij de leertaken:
 
 ## Doel van deze opdracht
 
-Je leert zelfstandig de fundamentals van Javascript om te gebruiken voor de leertaken. Zodra we in het programma met client-side Javascript gaan werken om interfaces te verrijken volgens het principes van Progressive Enhancment. 
+Je leert zelfstandig de fundamentals van Javascript om te gebruiken in de leertaken. 
 
 
 ## Werkwijze
@@ -27,7 +27,7 @@ Volg wekelijks verschillende lessen ven https://learnjavascript.online . (De eer
 
 Hou in een leerlog bij wat je zoal leert. Dit kun je ook gebruiken om iets terug te lezen en anderen uit te leggen hoe Javascript werkt. Je kan het bijhouden in de wiki van deze deeltaak, maar ook in je we-love-web repo met blog.
 
-Probeer wat je hebt leert toe passen in de leertaak. Noteer dan in de leertaak wat je hebt toegepast en verwijs naar je leerlog. 
+Probeer wat je hebt leert toe passen in de leertaak. Zodra we in het programma met client-side Javascript gaan werken om interfaces te verrijken volgens het principes van Progressive Enhancment kun je toe passen wat je hebt geleerd. Noteer dan in de leertaak wat je hebt toegepast en verwijs naar je leerlog. 
 
 
 
