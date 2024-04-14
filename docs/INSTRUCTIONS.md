@@ -1,17 +1,24 @@
 
-# [Deeltaak-naam]
+# Ja Fundamentals
 
-[Beschrijving van de deeltaak]
+Lees zelf Javascript om te gebruiken in de leertakem
 
 ## Context
 
-Deze deeltaak hoort bij sprint # [Sprintnaam]. 
-Dit is een deeltaak die je [individueel / in een team] uitvoert.
+Deze deeltaak hoort bij sprint 10, 11 en 12, zodra we in het prgramma met clinet-sode Javascript gaan werken om interfaces te verrijken volgens het principes van Progressive Enhancment. 
+Dit is een deeltaak die je individueel uitvoert.
 
-In de workshop [[Workshopnaam](link)] wordt behandeld ... 
+
 
 Deze deeltaak hoort bij de leertaak:
-- [[leertaak](link)]
+- [user-experience-enhanced-website](https://github.com/fdnd-task/user-experience-enhanced-website)
+- [user-delight-pleasurable-interface](https://github.com/fdnd-task/user-delight-pleasurable-interface)
+- [proof-of-concept](https://github.com/fdnd-task/proof-of-concept)
+
+
+
+
+
 
 
 ## Doel van deze opdracht
