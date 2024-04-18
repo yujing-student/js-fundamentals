@@ -5,7 +5,7 @@ Leer zelfstanding Javascript om te gebruiken in de leertaken
 
 ## Context
 
-Deze deeltaak hoort bij sprint 10, 11 en 12, zodra we in het programma met client-side Javascript gaan werken. 
+Deze deeltaak hoort bij sprint 10, 11 en 12, zodra we in het programma meer met client-side Javascript gaan werken. 
 
 Dit is een deeltaak die je individueel uitvoert.
 
