@@ -18,6 +18,11 @@ hieronder zie je mijn kennis van wat ik tot nu toe geleerd heb en daarin weet ik
 <img width="923" alt="image" src="https://github.com/user-attachments/assets/e982cb98-2e84-44b1-a7b5-ccef17f05e59" />
 
 
+# react tutorial
+ook heb ik deze react tutorial gevolgd: https://react19.react-tutorial.app/app.html?id=3606
+
+
+
 
 ## Licentie
 
