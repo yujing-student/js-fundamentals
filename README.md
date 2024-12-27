@@ -19,7 +19,11 @@ hieronder zie je mijn kennis van wat ik tot nu toe geleerd heb en daarin weet ik
 
 
 # react tutorial
-ook heb ik deze react tutorial gevolgd: https://react19.react-tutorial.app/app.html?id=3606
+ook heb ik deze react tutorial gevolgd de gratis versie: https://react19.react-tutorial.app/app.html?id=3606
+
+# Typescript tutorial
+
+ik heb deze tutorial gevolgd de gratis versie: https://learntypescript.online/app.html?
 
 
 
