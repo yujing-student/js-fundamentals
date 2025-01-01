@@ -21,10 +21,12 @@ hieronder zie je mijn kennis van wat ik tot nu toe geleerd heb en daarin weet ik
 # react tutorial
 ook heb ik deze react tutorial gevolgd de gratis versie: https://react19.react-tutorial.app/app.html?id=3606
 
+
 # Typescript tutorial
 
 ik heb deze tutorial gevolgd de gratis versie: https://learntypescript.online/app.html?
 
+<img width="1881" alt="image" src="https://github.com/user-attachments/assets/ef86e835-4c99-42ca-b210-d3776d0f6531" />
 
 
 
